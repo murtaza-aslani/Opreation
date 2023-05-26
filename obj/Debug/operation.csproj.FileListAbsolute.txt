@@ -1,0 +1,7 @@
+C:\Users\M.Aslani\Desktop\HomeWoks\operation\operation\bin\Debug\operation.exe.config
+C:\Users\M.Aslani\Desktop\HomeWoks\operation\operation\bin\Debug\operation.exe
+C:\Users\M.Aslani\Desktop\HomeWoks\operation\operation\bin\Debug\operation.pdb
+C:\Users\M.Aslani\Desktop\HomeWoks\operation\operation\obj\Debug\operation.csprojAssemblyReference.cache
+C:\Users\M.Aslani\Desktop\HomeWoks\operation\operation\obj\Debug\operation.csproj.CoreCompileInputs.cache
+C:\Users\M.Aslani\Desktop\HomeWoks\operation\operation\obj\Debug\operation.exe
+C:\Users\M.Aslani\Desktop\HomeWoks\operation\operation\obj\Debug\operation.pdb
